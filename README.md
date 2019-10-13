@@ -1,7 +1,9 @@
 # VBA-challenge
 Homework for the VBA portion of Bootcamp
 
-2 vbs Files included
+The screenshots for each year are in the one powerpoint presentation, called "Screenshots.pptx".
+
+2 vbs Files are included in the VBAStocks folder.
 
 summarizeStock.vbs - this will loop through the worksheets and calculate the yearly change for each stock, recording it in a summary table to the right of the original data.
 
